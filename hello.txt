@@ -1,2 +1,2 @@
 hello git world!
-hot-fix add
+master add
